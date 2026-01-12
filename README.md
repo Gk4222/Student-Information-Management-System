@@ -226,15 +226,4 @@ def DisplayData():
     cursor.close()
     conn.close()
 ```
-**Step 6: Run Code**: To run this code just right click on the coding area and click on **Run Program** and you will get a output screen like below.
-<img width="821" alt="home" src="https://user-images.githubusercontent.com/77569653/213883145-88fc35b6-7596-4d92-b914-8ccb982b89dc.png">
-
-**Insert**:Here just fill the Student details and click on Submit button you will get a screen like below
-<img width="821" alt="insert" src="https://user-images.githubusercontent.com/77569653/213883162-9a30a7da-c62f-4122-b4e4-49e37d773273.png">
-
-**Search**: If you want to search record of any student then just fill his/her name in textbox and click on search button. For example here i am going to search student Samir's details
-<img width="824" alt="search" src="https://user-images.githubusercontent.com/77569653/213883189-99f5c42a-46cf-4b61-bd54-3a3cb354e26d.png">
-
-**Delete**:To delete record of any student just click on record to select and the click on delete button.
-<img width="823" alt="delete" src="https://user-images.githubusercontent.com/77569653/213883206-89694686-fadd-434a-ad0d-dd75fe3bb2ce.png">
 
